@@ -10,3 +10,5 @@ How to run Chat with Robert
 3) If you want to improve the training dataset, you can run the training_pt.py several times.
 4) Run main.py to display the GUI of the system.
 5) You can then use the chatbot and communicate with robert the robot to your heart's content.
+
+![Alt text](/Screenshot_245.png "Robert's Interface")
